@@ -1,5 +1,5 @@
 # Урок 2. Задание со *.
-В репозитории находится файл [Vagrantfile]Vagrantfile и [script.sh]script.
+В репозитории находится файл .(Vagrantfile)[Vagrantfile] и (script.sh)[script]
 
 ## Описание Vagrantfile.
 
